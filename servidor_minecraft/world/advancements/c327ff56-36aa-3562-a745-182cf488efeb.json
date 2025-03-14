@@ -466,6 +466,7 @@
       "wythers:boreal_forest_yellow": "2025-03-14 15:06:48 +0000",
       "wythers:marsh": "2025-03-14 16:17:21 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:28:25 +0000",
+      "wythers:thermal_taiga_crags": "2025-03-14 17:30:35 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:59:42 +0000",
       "wythers:cold_plains": "2025-03-14 17:05:27 +0000",
       "wythers:berry_bog": "2025-03-14 17:10:46 +0000",
@@ -834,6 +835,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-03-14 17:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-14 17:17:07 +0000"
@@ -879,6 +886,12 @@
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-03-14 17:19:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-03-14 17:28:22 +0000"
     },
     "done": true
   },

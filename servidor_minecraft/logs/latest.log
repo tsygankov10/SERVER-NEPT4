@@ -3385,3 +3385,10 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 17:21:30.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Secrets of Enchanting]
 [14Mar2025 17:21:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [14Mar2025 17:27:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Local Librarian]
+[14Mar2025 17:28:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Wild Harvest]
+[14Mar2025 17:28:44.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1518, y=134, z=-2435} BlockPos{x=-1519, y=133, z=-2436}
+[14Mar2025 17:32:28.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
+[14Mar2025 17:37:25.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[14Mar2025 17:37:25.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[14Mar2025 17:37:32.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Mar2025 17:37:32.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
