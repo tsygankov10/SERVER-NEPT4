@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2025-03-14 16:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-14 15:36:31 +0000"
@@ -478,6 +484,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-14 16:05:06 +0000",
       "opened_chest": "2025-03-14 14:39:21 +0000"
     },
     "done": false
@@ -590,6 +597,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-14 16:05:06 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/dark_oak_log_slab": {
     "criteria": {
       "has_dark_oak_log": "2025-03-14 15:44:34 +0000"
@@ -670,10 +683,12 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:snowy_peaks": "2025-03-14 16:04:58 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:51:47 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:39:12 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:39:18 +0000",
       "wythers:tundra": "2025-03-14 14:37:47 +0000",
+      "wythers:highlands": "2025-03-14 16:04:13 +0000",
       "wythers:fen": "2025-03-14 15:21:20 +0000"
     },
     "done": false
@@ -734,11 +749,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-14 16:04:15 +0000",
       "minecraft:cherry_grove": "2025-03-14 16:00:43 +0000",
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
+      "minecraft:frozen_peaks": "2025-03-14 16:05:01 +0000",
       "minecraft:meadow": "2025-03-14 14:53:25 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-14 15:22:18 +0000"
     },
