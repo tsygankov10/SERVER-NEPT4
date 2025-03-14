@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-03-14 14:38:20 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-03-14 14:17:34 +0000"
@@ -266,6 +272,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-03-14 14:34:56 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-03-14 14:38:20 +0000"
     },
     "done": true
   },
@@ -371,6 +383,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-14 14:39:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-03-14 14:17:41 +0000"
@@ -391,6 +409,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-14 14:47:11 +0000",
       "opened_chest": "2025-03-14 14:34:42 +0000"
     },
     "done": false
@@ -467,6 +486,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 14:47:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-14 14:17:34 +0000"
@@ -482,6 +507,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 14:30:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-14 14:47:11 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-03-14 14:38:55 +0000"
     },
     "done": true
   },
@@ -518,6 +555,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-03-14 14:40:15 +0000"
     },
     "done": true
   },
@@ -609,6 +652,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-03-14 14:43:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -629,7 +678,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-03-14 14:21:25 +0000"
+      "sweet_berries": "2025-03-14 14:21:25 +0000",
+      "bread": "2025-03-14 14:51:04 +0000"
     },
     "done": false
   },
@@ -702,6 +752,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-03-14 14:38:20 +0000"
     },
     "done": true
   },

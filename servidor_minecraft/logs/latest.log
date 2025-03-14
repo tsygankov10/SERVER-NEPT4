@@ -3033,3 +3033,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 14:41:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Stone Age]
 [14Mar2025 14:41:52.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Getting an Upgrade]
 [14Mar2025 14:42:28.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Hunt and Gather]
+[14Mar2025 14:47:11.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Barrel Booty]
+[14Mar2025 14:47:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Disme A Dozen]
+[14Mar2025 14:49:11.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Monster Hunter]
+[14Mar2025 14:50:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 14:51:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[14Mar2025 14:51:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[14Mar2025 14:52:55.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/9138, l='ServerLevel[world]', x=307.43, y=179.50, z=-797.70] died, message: 'Cartographer was frozen by Ice Dragon'
