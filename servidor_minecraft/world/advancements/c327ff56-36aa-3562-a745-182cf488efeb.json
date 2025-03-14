@@ -455,6 +455,18 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-14 15:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-14 15:35:26 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-14 15:01:51 +0000"
@@ -485,6 +497,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-14 15:41:34 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-03-14 15:03:41 +0000"
@@ -494,6 +512,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-14 15:17:33 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-03-14 15:37:40 +0000"
     },
     "done": true
   },
@@ -529,9 +553,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-03-14 15:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-14 14:58:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-14 15:41:33 +0000"
     },
     "done": true
   },
@@ -559,11 +595,23 @@
     },
     "done": false
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-14 15:41:26 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-03-14 14:54:33 +0000"
     },
     "done": false
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:37:40 +0000"
+    },
+    "done": true
   },
   "hearth_and_home:recipes/parquets": {
     "criteria": {
@@ -574,6 +622,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 15:04:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-03-14 15:42:17 +0000"
     },
     "done": true
   },
@@ -622,14 +676,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:grove": "2025-03-14 14:59:37 +0000",
-      "minecraft:frozen_peaks": "2025-03-14 14:58:57 +0000"
+      "minecraft:forest": "2025-03-14 15:37:28 +0000",
+      "minecraft:frozen_peaks": "2025-03-14 14:58:57 +0000",
+      "minecraft:meadow": "2025-03-14 15:34:11 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-14 14:58:24 +0000",
-      "cooked_beef": "2025-03-14 15:22:25 +0000"
+      "cooked_beef": "2025-03-14 15:22:25 +0000",
+      "cooked_chicken": "2025-03-14 15:42:51 +0000"
     },
     "done": false
   },

@@ -3133,3 +3133,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 15:33:45.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=121, z=-2240} BlockPos{x=-1470, y=120, z=-2240}
 [14Mar2025 15:34:00.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
 [14Mar2025 15:34:11.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported andresgc_26 to carloselpillo]
+[14Mar2025 15:35:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Suit Up]
+[14Mar2025 15:35:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Suit Up]
+[14Mar2025 15:36:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Isn't It Iron Pick]
+[14Mar2025 15:39:20.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=298, y=131, z=-581} BlockPos{x=298, y=129, z=-582}
+[14Mar2025 15:40:10.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=130, z=-579} BlockPos{x=304, y=129, z=-580}
+[14Mar2025 15:40:10.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Find and collect a Rose]
+[14Mar2025 15:40:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[14Mar2025 15:41:19.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=130, z=-582} BlockPos{x=306, y=129, z=-583}
+[14Mar2025 15:41:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement ['X' Marks the Spot]
+[14Mar2025 15:41:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [I Found It Underground]
+[14Mar2025 15:41:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Apothic Affixes]
+[14Mar2025 15:41:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Tools of the Trade]
+[14Mar2025 15:42:17.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Not a Diamond]
+[14Mar2025 15:42:41.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:42467] logged in with entity id 60926 at (-102.5, 85.0, -85.5)
+[14Mar2025 15:42:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[14Mar2025 15:42:41.277] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[14Mar2025 15:42:41.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice and Fire]
+[14Mar2025 15:42:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made myser444 a server operator]
+[14Mar2025 15:43:25.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 15:43:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Worthy Equipment]

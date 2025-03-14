@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-14 15:35:07 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-14 14:41:13 +0000"
@@ -68,6 +74,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-03-14 14:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-14 15:36:31 +0000"
     },
     "done": true
   },
@@ -348,6 +360,13 @@
       "always": "2025-03-14 14:37:47 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-14 15:41:28 +0000",
+      "carrot": "2025-03-14 15:38:49 +0000"
+    },
+    "done": false
   },
   "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
@@ -644,6 +663,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:37:47 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2025-03-14 15:40:10 +0000"
     },
     "done": true
   },
