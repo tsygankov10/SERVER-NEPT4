@@ -871,6 +871,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 21:05:43 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_oak_log_slab": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-03-14 21:08:32 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "double_flower": "2025-03-14 20:53:35 +0000"

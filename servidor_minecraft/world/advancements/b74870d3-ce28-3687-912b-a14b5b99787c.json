@@ -931,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-14 21:09:26 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-03-14 20:48:35 +0000"
