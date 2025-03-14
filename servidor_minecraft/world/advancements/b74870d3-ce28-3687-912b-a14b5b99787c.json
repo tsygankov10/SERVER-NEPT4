@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-03-14 16:00:15 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-03-14 14:37:46 +0000"
@@ -337,6 +343,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-03-14 15:59:27 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-03-14 14:37:46 +0000"
@@ -352,6 +364,12 @@
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-03-14 14:37:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-14 15:59:27 +0000"
     },
     "done": true
   },
@@ -560,6 +578,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 16:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 14:41:52 +0000"
@@ -690,6 +714,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-14 16:00:37 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-03-14 14:37:47 +0000"
@@ -704,6 +734,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-03-14 16:00:43 +0000",
+      "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
