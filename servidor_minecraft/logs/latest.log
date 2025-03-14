@@ -2963,3 +2963,73 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 14:25:15.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Chain Death]
 [14Mar2025 14:25:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was turned to ice by Ice Dragon
 [14Mar2025 14:25:16.003] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[14Mar2025 14:28:52.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7062, l='ServerLevel[world]', x=32.40, y=143.00, z=-359.55] died, message: 'Unemployed froze to death'
+[14Mar2025 14:28:56.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[14Mar2025 14:29:39.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Stone Age]
+[14Mar2025 14:29:56.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16408ms or 328 ticks behind
+[14Mar2025 14:30:24.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@455b06e7[id=<null>,name=andresgc_26,properties={},legacy=false] (/127.117.166.183:44017) lost connection: Disconnected
+[14Mar2025 14:30:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Getting an Upgrade]
+[14Mar2025 14:31:13.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14Mar2025 14:31:34.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5815ms or 116 ticks behind
+[14Mar2025 14:32:09.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28081f44[id=<null>,name=andresgc_26,properties={},legacy=false] (/127.117.166.183:53525) lost connection: Disconnected
+[14Mar2025 14:33:49.360] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3061d062[id=<null>,name=andresgc_26,properties={},legacy=false] (/127.117.166.183:38231) lost connection: Disconnected
+[14Mar2025 14:34:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement ['X' Marks the Spot]
+[14Mar2025 14:34:56.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [I Found It Underground]
+[14Mar2025 14:34:56.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Apothic Affixes]
+[14Mar2025 14:35:20.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 14:35:55.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:45819] logged in with entity id 10143 at (-98.5, 96.0, -98.5)
+[14Mar2025 14:35:56.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 14:35:56.326] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 14:35:56.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[14Mar2025 14:35:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game
+[14Mar2025 14:35:56.541] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Mar2025 14:35:58.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Tools of the Trade]
+[14Mar2025 14:36:43.566] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:36:43.569] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:36:43.575] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:36:43.587] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:36:43.589] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:36:43.595] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:36:43.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:43447] logged in with entity id 10272 at (-98.5, 96.0, -98.5)
+[14Mar2025 14:36:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 14:36:43.729] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 14:36:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Ice and Fire]
+[14Mar2025 14:36:44.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[14Mar2025 14:36:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game
+[14Mar2025 14:37:00.453] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:37:00.455] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:37:00.459] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:37:00.468] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:37:00.470] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:37:00.475] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:37:00.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:48287] logged in with entity id 10370 at (-98.5, 96.0, -98.5)
+[14Mar2025 14:37:00.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 14:37:00.590] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 14:37:00.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[14Mar2025 14:37:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game
+[14Mar2025 14:37:46.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:57163] logged in with entity id 10589 at (-105.5, 86.0, -85.5)
+[14Mar2025 14:37:46.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[14Mar2025 14:37:46.970] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[14Mar2025 14:37:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ice and Fire]
+[14Mar2025 14:38:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made carloselpillo a server operator
+[14Mar2025 14:38:48.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Sky of Beginning]
+[14Mar2025 14:39:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[14Mar2025 14:39:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement ['X' Marks the Spot]
+[14Mar2025 14:39:22.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Not a Diamond]
+[14Mar2025 14:39:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Left hanging]
+[14Mar2025 14:39:38.749] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:39:38.751] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:39:38.756] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:39:38.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:39:38.767] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:39:38.772] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:39:38.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:54937] logged in with entity id 11927 at (-98.5, 96.0, -98.5)
+[14Mar2025 14:39:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 14:39:38.876] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 14:39:39.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[14Mar2025 14:39:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game
+[14Mar2025 14:39:46.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Lit!]
+[14Mar2025 14:41:23.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9537, l='ServerLevel[world]', x=232.37, y=157.00, z=-872.84] died, message: 'Nitwit was slain by Zombie'
+[14Mar2025 14:41:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Stone Age]
+[14Mar2025 14:41:52.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Getting an Upgrade]
+[14Mar2025 14:42:28.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Hunt and Gather]
