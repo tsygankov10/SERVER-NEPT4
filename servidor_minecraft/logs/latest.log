@@ -3308,3 +3308,17 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 16:25:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Far From Perfect]
 [14Mar2025 16:25:53.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/92866, l='ServerLevel[world]', x=-965.56, y=69.00, z=-2812.32] died, message: 'Shepherd was slain by Zombie'
 [14Mar2025 16:26:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Forbidden Fruit]
+[14Mar2025 16:27:03.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[14Mar2025 16:27:59.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/95793, l='ServerLevel[world]', x=-930.70, y=63.00, z=-2810.70] died, message: 'Cartographer was slain by Zombie'
+[14Mar2025 16:28:16.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14Mar2025 16:28:37.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Mar2025 16:29:18.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14Mar2025 16:29:34.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[14Mar2025 16:29:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[14Mar2025 16:31:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Suit Up]
+[14Mar2025 16:31:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Flawless Crystals]
+[14Mar2025 16:32:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Not Today, Thank You]
+[14Mar2025 16:33:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Close Quarters]
+[14Mar2025 16:34:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:34:13.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Flawless Crystals]
+[14Mar2025 16:34:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]

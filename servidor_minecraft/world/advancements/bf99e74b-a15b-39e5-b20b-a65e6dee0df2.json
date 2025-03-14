@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-14 16:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-14 16:01:33 +0000"
@@ -122,6 +128,18 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-03-14 15:42:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-03-14 16:31:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-03-14 16:26:10 +0000"
     },
     "done": true
   },
@@ -211,9 +229,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-14 16:33:12 +0000",
       "minecraft:spider": "2025-03-14 16:19:32 +0000",
       "minecraft:witch": "2025-03-14 16:20:06 +0000",
-      "minecraft:zombie": "2025-03-14 16:02:59 +0000"
+      "minecraft:zombie": "2025-03-14 16:02:59 +0000",
+      "minecraft:zombie_villager": "2025-03-14 16:27:26 +0000"
     },
     "done": false
   },
@@ -523,6 +543,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 16:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 15:50:58 +0000"
@@ -538,6 +564,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-14 15:42:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-03-14 16:25:47 +0000"
     },
     "done": true
   },
@@ -598,9 +630,11 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:marsh": "2025-03-14 16:17:18 +0000",
+      "wythers:thermal_taiga": "2025-03-14 16:27:32 +0000",
       "wythers:cold_plains": "2025-03-14 16:02:32 +0000",
       "wythers:berry_bog": "2025-03-14 15:43:26 +0000",
       "wythers:underground": "2025-03-14 16:06:35 +0000",
+      "wythers:crimson_tundra": "2025-03-14 16:34:56 +0000",
       "wythers:tundra": "2025-03-14 15:42:42 +0000",
       "wythers:fen": "2025-03-14 15:44:50 +0000"
     },
@@ -615,6 +649,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-14 15:51:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-03-14 16:25:47 +0000"
     },
     "done": true
   },

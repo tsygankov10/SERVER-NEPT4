@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-03-14 16:34:13 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-03-14 15:17:33 +0000"
@@ -538,7 +544,8 @@
       "minecraft:skeleton": "2025-03-14 15:23:21 +0000",
       "minecraft:creeper": "2025-03-14 15:23:11 +0000",
       "minecraft:silverfish": "2025-03-14 15:51:54 +0000",
-      "minecraft:zombie": "2025-03-14 15:24:10 +0000"
+      "minecraft:zombie": "2025-03-14 15:24:10 +0000",
+      "minecraft:zombie_villager": "2025-03-14 16:29:01 +0000"
     },
     "done": false
   },
@@ -727,6 +734,7 @@
     "criteria": {
       "wythers:boreal_forest_yellow": "2025-03-14 15:06:48 +0000",
       "wythers:marsh": "2025-03-14 16:17:21 +0000",
+      "wythers:thermal_taiga": "2025-03-14 16:28:25 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:59:42 +0000",
       "wythers:cold_stony_shore": "2025-03-14 15:07:54 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:58:47 +0000",
