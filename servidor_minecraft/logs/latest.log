@@ -3040,3 +3040,18 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 14:51:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
 [14Mar2025 14:51:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [14Mar2025 14:52:55.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/9138, l='ServerLevel[world]', x=307.43, y=179.50, z=-797.70] died, message: 'Cartographer was frozen by Ice Dragon'
+[14Mar2025 14:54:04.352] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1230, y=-58, z=45}
+[14Mar2025 14:54:32.415] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:54:32.417] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:54:32.423] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:54:32.435] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 14:54:32.437] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 14:54:32.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 14:54:32.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:33671] logged in with entity id 17116 at (-98.5, 96.0, -98.5)
+[14Mar2025 14:54:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 14:54:32.531] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 14:54:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[14Mar2025 14:54:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by carloselpillo
+[14Mar2025 14:54:39.790] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[14Mar2025 14:59:50.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 14:59:53.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made andresgc_26 a server operator]

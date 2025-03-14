@@ -251,12 +251,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-14 14:35:56 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:35:56 +0000"
@@ -446,6 +440,142 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-03-14 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-14 15:01:51 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-03-14 15:00:10 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/trims": {
+    "criteria": {
+      "has_item": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/lattices": {
+    "criteria": {
+      "has_item": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-14 14:58:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-03-14 14:59:14 +0000"
+    },
+    "done": false
+  },
+  "hearth_and_home:recipes/sanded_wood": {
+    "criteria": {
+      "has_item": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-03-14 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 14:54:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 14:54:33 +0000"
+    },
+    "done": false
+  },
+  "hearth_and_home:recipes/parquets": {
+    "criteria": {
+      "has_item": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 14:54:33 +0000"
+    },
+    "done": false
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:boreal_forest_red": "2025-03-14 14:59:42 +0000",
+      "wythers:snowy_tundra": "2025-03-14 14:58:47 +0000",
+      "wythers:crimson_tundra": "2025-03-14 14:58:43 +0000",
+      "wythers:tundra": "2025-03-14 14:54:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-14 15:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2025-03-14 14:59:37 +0000",
+      "minecraft:frozen_peaks": "2025-03-14 14:58:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-03-14 14:58:24 +0000"
+    },
+    "done": false
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-03-14 15:00:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-14 14:54:33 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-14 14:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-14 15:01:51 +0000"
     },
     "done": true
   },
