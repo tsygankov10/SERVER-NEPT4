@@ -2990,3 +2990,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 21:14:39.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [14Mar2025 21:15:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
 [14Mar2025 21:16:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> sa sentao
+[14Mar2025 21:23:38.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 fell from a high place
+[14Mar2025 21:23:38.996] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[14Mar2025 21:23:56.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[14Mar2025 21:23:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[14Mar2025 21:28:59.164] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Mar2025 21:28:59.164] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Mar2025 21:29:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
