@@ -2951,3 +2951,37 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 20:48:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ashes 'n Bones]
 [14Mar2025 20:48:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [How'd You Get This?]
 [14Mar2025 20:48:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Worthy Equipment]
+[14Mar2025 20:48:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Strange Grave Dust]
+[14Mar2025 20:49:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[14Mar2025 20:49:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[14Mar2025 20:50:16.688] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 20:50:16.691] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 20:50:16.699] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 20:50:16.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 20:50:16.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 20:50:16.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 20:50:16.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:59623] logged in with entity id 7654 at (-1376.300000011921, -36.0, -2275.300000011921)
+[14Mar2025 20:50:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[14Mar2025 20:50:16.823] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[14Mar2025 20:50:26.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> hola que tal
+[14Mar2025 20:52:06.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/4328, l='ServerLevel[world]', x=274.59, y=126.50, z=-526.16] died: Honeyed Archer was slain by carloselpillo
+[14Mar2025 20:53:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Sky of Beginning]
+[14Mar2025 20:56:15.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1488, y=137, z=-2352} BlockPos{x=-1488, y=136, z=-2353}
+[14Mar2025 20:56:29.984] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:33.484] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:41.334] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:41.644] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:41.783] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:41.998] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:42.144] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:42.340] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:42.534] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:42.833] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:50.794] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:56:51.284] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[14Mar2025 20:57:05.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1486, y=138, z=-2356} BlockPos{x=-1486, y=137, z=-2356}
+[14Mar2025 20:57:11.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1486, y=138, z=-2369} BlockPos{x=-1486, y=137, z=-2368}
+[14Mar2025 20:57:45.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1485, y=138, z=-2360} BlockPos{x=-1485, y=137, z=-2360}
+[14Mar2025 20:58:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [What a Deal!]
+[14Mar2025 21:00:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[14Mar2025 21:03:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Far From Perfect]
