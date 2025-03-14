@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:15:07 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:37:47 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:19:40 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-03-14 14:37:47 +0000"
@@ -170,6 +182,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-14 15:19:40 +0000"
     },
     "done": true
   },
@@ -261,6 +279,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-14 14:37:47 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-03-14 15:19:40 +0000"
     },
     "done": true
   },
@@ -360,6 +384,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-03-14 15:15:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:37:47 +0000"
@@ -371,6 +401,12 @@
       "log_spam_fixer": "2025-03-14 14:37:47 +0000"
     },
     "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-14 15:22:25 +0000"
+    },
+    "done": true
   },
   "mcwfences:recipes/bamboo": {
     "criteria": {
@@ -459,6 +495,12 @@
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-03-14 14:38:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 15:14:14 +0000"
     },
     "done": true
   },
@@ -557,7 +599,8 @@
       "wythers:boreal_forest_red": "2025-03-14 14:51:47 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:39:12 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:39:18 +0000",
-      "wythers:tundra": "2025-03-14 14:37:47 +0000"
+      "wythers:tundra": "2025-03-14 14:37:47 +0000",
+      "wythers:fen": "2025-03-14 15:21:20 +0000"
     },
     "done": false
   },
@@ -605,8 +648,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:swamp": "2025-03-14 15:21:02 +0000",
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
-      "minecraft:meadow": "2025-03-14 14:53:25 +0000"
+      "minecraft:meadow": "2025-03-14 14:53:25 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-14 15:22:18 +0000"
     },
     "done": false
   },
