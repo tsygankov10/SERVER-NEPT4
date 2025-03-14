@@ -2944,3 +2944,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 20:31:20.661] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
 [14Mar2025 20:31:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8070ms or 161 ticks behind
 [14Mar2025 20:32:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[14Mar2025 20:44:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[14Mar2025 20:44:59.079] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[14Mar2025 20:46:52.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has completed the challenge [What a Nugget, Once Again!]
+[14Mar2025 20:48:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Knowledge of Death]
+[14Mar2025 20:48:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ashes 'n Bones]
+[14Mar2025 20:48:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [How'd You Get This?]
+[14Mar2025 20:48:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Worthy Equipment]
