@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-14 15:46:14 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/oak_log_slab": {
     "criteria": {
       "has_oak_log": "2025-03-14 15:37:40 +0000"
@@ -525,9 +531,16 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-14 15:23:21 +0000",
       "minecraft:creeper": "2025-03-14 15:23:11 +0000",
+      "minecraft:silverfish": "2025-03-14 15:51:54 +0000",
       "minecraft:zombie": "2025-03-14 15:24:10 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-14 15:46:14 +0000"
+    },
+    "done": true
   },
   "beautify:blinds": {
     "criteria": {
@@ -607,15 +620,33 @@
     },
     "done": false
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-03-14 15:43:33 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-03-14 15:37:40 +0000"
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:47:27 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/parquets": {
     "criteria": {
       "has_item": "2025-03-14 15:01:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 15:49:27 +0000"
     },
     "done": true
   },
@@ -684,6 +715,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-03-14 15:50:15 +0000",
       "sweet_berries": "2025-03-14 14:58:24 +0000",
       "cooked_beef": "2025-03-14 15:22:25 +0000",
       "cooked_chicken": "2025-03-14 15:42:51 +0000"
@@ -717,6 +749,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-14 15:01:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-14 15:46:14 +0000"
     },
     "done": true
   },

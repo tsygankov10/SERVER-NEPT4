@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:44:34 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2025-03-14 15:15:07 +0000"
@@ -557,6 +563,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 14:41:52 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-03-14 15:44:34 +0000"
     },
     "done": true
   },
@@ -811,6 +823,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-14 14:41:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:44:36 +0000"
     },
     "done": true
   },

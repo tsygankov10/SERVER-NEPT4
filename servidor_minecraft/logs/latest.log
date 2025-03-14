@@ -3153,3 +3153,25 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 15:42:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made myser444 a server operator]
 [14Mar2025 15:43:25.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
 [14Mar2025 15:43:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Worthy Equipment]
+[14Mar2025 15:45:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Acquire Hardware]
+[14Mar2025 15:46:14.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Quaint Scribe]
+[14Mar2025 15:47:14.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14Mar2025 15:47:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was shot by Stymphalian Bird
+[14Mar2025 15:47:36.236] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[14Mar2025 15:47:46.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[14Mar2025 15:48:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Stone Age]
+[14Mar2025 15:48:34.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14Mar2025 15:48:58.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14Mar2025 15:49:15.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14Mar2025 15:49:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Disme A Dozen]
+[14Mar2025 15:49:33.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[14Mar2025 15:49:50.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[14Mar2025 15:50:08.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[14Mar2025 15:50:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[14Mar2025 15:50:24.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 15:50:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[14Mar2025 15:50:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Getting an Upgrade]
+[14Mar2025 15:53:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was shot by Stymphalian Bird
+[14Mar2025 15:53:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Your First Grave]
+[14Mar2025 15:53:39.702] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[14Mar2025 15:53:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Here They Come]

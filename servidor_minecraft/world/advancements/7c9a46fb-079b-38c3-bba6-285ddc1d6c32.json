@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:47:48 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-03-14 14:34:42 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-03-14 15:45:24 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-03-14 14:17:40 +0000"
@@ -170,6 +182,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-14 15:45:24 +0000"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-14 14:17:40 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-03-14 15:45:24 +0000"
     },
     "done": true
   },
@@ -627,6 +651,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
+    "criteria": {
+      "has_spruce_log": "2025-03-14 15:47:48 +0000"
     },
     "done": true
   },
