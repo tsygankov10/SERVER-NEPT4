@@ -231,7 +231,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-14 16:33:12 +0000",
       "minecraft:spider": "2025-03-14 16:19:32 +0000",
+      "minecraft:slime": "2025-03-14 16:41:37 +0000",
       "minecraft:witch": "2025-03-14 16:20:06 +0000",
+      "minecraft:husk": "2025-03-14 16:38:28 +0000",
       "minecraft:zombie": "2025-03-14 16:02:59 +0000",
       "minecraft:zombie_villager": "2025-03-14 16:27:26 +0000"
     },
@@ -396,6 +398,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-14 15:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-14 16:39:22 +0000"
     },
     "done": true
   },

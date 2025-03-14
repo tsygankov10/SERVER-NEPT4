@@ -3322,3 +3322,24 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 16:34:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
 [14Mar2025 16:34:13.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Flawless Crystals]
 [14Mar2025 16:34:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:37:31.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/95237, l='ServerLevel[world]', x=-904.32, y=63.00, z=-2809.77] died, message: 'Shepherd was slain by Zombie'
+[14Mar2025 16:38:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Mr. President Amanda the Questionable
+[14Mar2025 16:38:01.771] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[14Mar2025 16:38:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Mr. President Amanda the Questionable
+[14Mar2025 16:38:14.808] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[14Mar2025 16:38:28.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Mr. President Amanda the Questionable'/104883, l='ServerLevel[world]', x=-1512.81, y=71.00, z=-2273.48] died: Mr. President Amanda the Questionable was slain by myser444
+[14Mar2025 16:38:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has completed the challenge [He Wasn't So Strong]
+[14Mar2025 16:39:22.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ol' Betsy]
+[14Mar2025 16:39:31.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:40:08.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/92879, l='ServerLevel[world]', x=-866.14, y=63.50, z=-2792.76] died, message: 'Armorer was slain by Zombie'
+[14Mar2025 16:40:38.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/92878, l='ServerLevel[world]', x=-874.14, y=63.00, z=-2793.51] died, message: 'Leatherworker was slain by Zombie Villager'
+[14Mar2025 16:40:52.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/92885, l='ServerLevel[world]', x=-892.64, y=63.00, z=-2801.51] died, message: 'Nitwit was slain by Zombie Villager'
+[14Mar2025 16:41:00.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [How'd You Get This?]
+[14Mar2025 16:41:09.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/104370, l='ServerLevel[world]', x=-962.86, y=93.25, z=-2723.35] died: Honeyed Archer suffocated in a wall
+[14Mar2025 16:41:10.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/104367, l='ServerLevel[world]', x=-959.65, y=100.25, z=-2751.62] died: Honeyed Archer suffocated in a wall
+[14Mar2025 16:41:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Strange Grave Dust]
+[14Mar2025 16:41:56.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[14Mar2025 16:41:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game
+[14Mar2025 16:42:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:43:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Herc was on a Roll!]
+[14Mar2025 16:44:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
