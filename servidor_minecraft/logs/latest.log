@@ -3343,3 +3343,14 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 16:42:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
 [14Mar2025 16:43:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Herc was on a Roll!]
 [14Mar2025 16:44:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:47:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[14Mar2025 16:47:23.547] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[14Mar2025 16:47:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:47:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ashes 'n Bones]
+[14Mar2025 16:47:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Not a Diamond]
+[14Mar2025 16:48:12.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/104248, l='ServerLevel[world]', x=-1596.65, y=128.25, z=-2387.54] died: Honeyed Archer suffocated in a wall
+[14Mar2025 16:50:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Chest Slayer]
+[14Mar2025 16:50:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[14Mar2025 16:52:18.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[14Mar2025 16:52:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ashes 'n Bones]
+[14Mar2025 16:52:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [A Strange Grave Dust]

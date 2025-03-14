@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-14 16:50:06 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -698,6 +704,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-03-14 16:47:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -707,6 +719,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-03-14 16:51:01 +0000"
     },
     "done": true
   },
@@ -725,6 +743,12 @@
   "new_slab_variants:recipes/building_blocks/hay_block_slab": {
     "criteria": {
       "has_hay_block": "2025-03-14 14:40:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-03-14 16:53:00 +0000"
     },
     "done": true
   },
@@ -910,6 +934,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-14 16:03:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-14 16:47:44 +0000"
     },
     "done": true
   },
