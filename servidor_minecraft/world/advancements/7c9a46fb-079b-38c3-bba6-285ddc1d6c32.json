@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 17:07:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-14 17:19:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -279,6 +291,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-14 15:07:47 +0000",
       "minecraft:spider": "2025-03-14 16:02:17 +0000",
+      "quark:forgotten": "2025-03-14 16:57:39 +0000",
       "minecraft:zombie": "2025-03-14 16:36:31 +0000"
     },
     "done": false
@@ -343,9 +356,21 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-03-14 16:57:41 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/trims": {
     "criteria": {
       "has_item": "2025-03-14 14:28:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-14 17:21:30 +0000"
     },
     "done": true
   },
@@ -722,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-14 17:19:48 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-03-14 16:51:01 +0000"
@@ -783,6 +814,7 @@
       "wythers:marsh": "2025-03-14 16:17:02 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:22:57 +0000",
       "wythers:gravelly_beach": "2025-03-14 15:12:27 +0000",
+      "wythers:thermal_taiga_crags": "2025-03-14 17:25:09 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:27:47 +0000",
       "wythers:cold_plains": "2025-03-14 14:19:35 +0000",
       "wythers:berry_bog": "2025-03-14 15:26:35 +0000",
@@ -793,6 +825,7 @@
       "wythers:crimson_tundra": "2025-03-14 14:18:39 +0000",
       "wythers:tundra": "2025-03-14 14:17:41 +0000",
       "wythers:highlands": "2025-03-14 14:24:32 +0000",
+      "wythers:deep_underground": "2025-03-14 16:57:04 +0000",
       "wythers:fen": "2025-03-14 15:18:34 +0000",
       "wythers:harvest_fields": "2025-03-14 14:20:52 +0000",
       "wythers:sand_dunes": "2025-03-14 14:26:37 +0000"

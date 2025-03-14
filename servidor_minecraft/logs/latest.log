@@ -3354,3 +3354,34 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 16:52:18.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
 [14Mar2025 16:52:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ashes 'n Bones]
 [14Mar2025 16:52:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [A Strange Grave Dust]
+[14Mar2025 16:57:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [This Belongs in a Museum]
+[14Mar2025 17:00:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Mimic
+[14Mar2025 17:00:40.971] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[14Mar2025 17:01:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Chest Slayer]
+[14Mar2025 17:01:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Amateur Archaeologist]
+[14Mar2025 17:02:10.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Barrel Booty]
+[14Mar2025 17:03:47.385] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 17:03:47.386] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 17:03:47.389] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 17:03:47.395] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 17:03:47.397] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 17:03:47.400] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 17:03:47.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:45603] logged in with entity id 113974 at (-888.2971404791399, 78.0, -2855.2785017629485)
+[14Mar2025 17:03:47.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[14Mar2025 17:03:47.486] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[14Mar2025 17:03:54.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[14Mar2025 17:03:54.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[14Mar2025 17:04:15.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/113995, l='ServerLevel[world]', x=-887.70, y=62.93, z=-2811.30] died, message: 'Unemployed was slain by Zombie'
+[14Mar2025 17:04:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Surge Protector]
+[14Mar2025 17:10:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported andresgc_26 to joselete123]
+[14Mar2025 17:17:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Not Today, Thank You]
+[14Mar2025 17:17:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [A Strange Grave Dust]
+[14Mar2025 17:19:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Knowledge of Death]
+[14Mar2025 17:19:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Ambush]
+[14Mar2025 17:19:40.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Velma the Odd-Smelling'/139165, l='ServerLevel[world]', x=-1445.70, y=116.00, z=-2285.70] died: Velma the Odd-Smelling was slain by andresgc_26
+[14Mar2025 17:19:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has completed the challenge [He Wasn't So Strong]
+[14Mar2025 17:19:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ice Bucket Challenge]
+[14Mar2025 17:19:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Herc was on a Roll!]
+[14Mar2025 17:21:30.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Secrets of Enchanting]
+[14Mar2025 17:21:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 17:27:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Local Librarian]
