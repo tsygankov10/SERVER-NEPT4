@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-14 16:17:28 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-03-14 15:42:41 +0000"
@@ -35,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-14 16:23:39 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-14 15:46:02 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-03-14 16:19:33 +0000"
     },
     "done": true
   },
@@ -193,6 +211,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-03-14 16:19:32 +0000",
+      "minecraft:witch": "2025-03-14 16:20:06 +0000",
       "minecraft:zombie": "2025-03-14 16:02:59 +0000"
     },
     "done": false
@@ -311,6 +331,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-03-14 16:23:26 +0000"
+    },
+    "done": true
+  },
   "eggdelight:egg_advancement": {
     "criteria": {
       "egg_advancement": "2025-03-14 15:59:26 +0000"
@@ -320,6 +346,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-14 15:42:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-14 16:20:06 +0000"
     },
     "done": true
   },
@@ -401,6 +433,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-14 16:17:28 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-03-14 15:42:41 +0000"
@@ -431,6 +469,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-14 16:20:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-03-14 16:19:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-03-14 15:42:41 +0000"
@@ -452,6 +502,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-14 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 16:23:20 +0000"
     },
     "done": true
   },
@@ -497,6 +553,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-14 16:19:14 +0000"
+    },
+    "done": true
+  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-03-14 15:42:41 +0000"
@@ -535,6 +597,7 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:marsh": "2025-03-14 16:17:18 +0000",
       "wythers:cold_plains": "2025-03-14 16:02:32 +0000",
       "wythers:berry_bog": "2025-03-14 15:43:26 +0000",
       "wythers:underground": "2025-03-14 16:06:35 +0000",
@@ -650,6 +713,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-14 15:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-14 16:22:06 +0000"
     },
     "done": true
   },

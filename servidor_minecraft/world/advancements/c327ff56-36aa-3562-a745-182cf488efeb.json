@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-03-14 16:15:16 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/trims": {
     "criteria": {
       "has_item": "2025-03-14 15:01:47 +0000"
@@ -575,6 +581,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-03-14 15:41:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-03-14 16:15:16 +0000"
     },
     "done": true
   },
@@ -626,6 +638,12 @@
       "log_spam_fixer": "2025-03-14 14:54:33 +0000"
     },
     "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 16:23:15 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/rare": {
     "criteria": {
@@ -681,6 +699,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-14 16:19:14 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-03-14 15:20:12 +0000"
@@ -702,12 +726,14 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:boreal_forest_yellow": "2025-03-14 15:06:48 +0000",
+      "wythers:marsh": "2025-03-14 16:17:21 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:59:42 +0000",
       "wythers:cold_stony_shore": "2025-03-14 15:07:54 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:58:47 +0000",
       "wythers:underground": "2025-03-14 15:20:42 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:58:43 +0000",
-      "wythers:tundra": "2025-03-14 14:54:33 +0000"
+      "wythers:tundra": "2025-03-14 14:54:33 +0000",
+      "wythers:fen": "2025-03-14 16:22:37 +0000"
     },
     "done": false
   },
@@ -737,6 +763,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-03-14 16:16:59 +0000",
       "minecraft:grove": "2025-03-14 14:59:37 +0000",
       "minecraft:forest": "2025-03-14 15:37:28 +0000",
       "minecraft:frozen_peaks": "2025-03-14 14:58:57 +0000",
@@ -786,6 +813,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-03-14 15:46:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-03-14 16:15:16 +0000"
     },
     "done": true
   },

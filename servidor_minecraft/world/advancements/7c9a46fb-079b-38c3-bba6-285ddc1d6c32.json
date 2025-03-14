@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-03-14 16:20:13 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-03-14 14:17:34 +0000"
@@ -529,6 +535,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-03-14 16:22:09 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
@@ -601,9 +613,21 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-14 16:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-14 14:30:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/mud_slab": {
+    "criteria": {
+      "has_mud": "2025-03-14 16:18:23 +0000"
     },
     "done": true
   },
@@ -689,6 +713,8 @@
     "criteria": {
       "wythers:autumnal_flower_forest": "2025-03-14 14:21:20 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 14:28:28 +0000",
+      "wythers:marsh": "2025-03-14 16:17:02 +0000",
+      "wythers:thermal_taiga": "2025-03-14 16:22:57 +0000",
       "wythers:gravelly_beach": "2025-03-14 15:12:27 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:27:47 +0000",
       "wythers:cold_plains": "2025-03-14 14:19:35 +0000",
@@ -733,6 +759,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-14 14:17:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-14 16:19:20 +0000"
     },
     "done": true
   },
@@ -797,6 +829,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-14 14:21:25 +0000",
+      "apple": "2025-03-14 16:20:17 +0000",
       "bread": "2025-03-14 14:51:04 +0000"
     },
     "done": false
@@ -870,6 +903,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-14 14:28:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-14 16:23:10 +0000"
     },
     "done": true
   },

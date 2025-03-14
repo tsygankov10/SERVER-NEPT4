@@ -3269,3 +3269,42 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [14Mar2025 16:14:49.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
 [14Mar2025 16:15:08.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
 [14Mar2025 16:15:27.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
+[14Mar2025 16:15:45.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14Mar2025 16:16:04.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
+[14Mar2025 16:16:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[14Mar2025 16:16:22.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[14Mar2025 16:16:40.120] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1230, y=-58, z=45}
+[14Mar2025 16:16:43.373] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1410, y=-58, z=47}
+[14Mar2025 16:16:59.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported andresgc_26 to joselete123]
+[14Mar2025 16:17:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement ['X' Marks the Spot]
+[14Mar2025 16:19:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Chompy]
+[14Mar2025 16:19:14.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Chompy]
+[14Mar2025 16:19:16.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Crocodile
+[14Mar2025 16:19:16.575] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[14Mar2025 16:19:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Amateur Archaeologist]
+[14Mar2025 16:19:32.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95851, l='ServerLevel[world]', x=-937.48, y=60.00, z=-2845.68] died, message: 'Unemployed was slain by Zombie Brute'
+[14Mar2025 16:19:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Worthy Equipment]
+[14Mar2025 16:20:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Knowledge of Death]
+[14Mar2025 16:20:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ambush]
+[14Mar2025 16:20:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Forbidden Fruit]
+[14Mar2025 16:21:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[14Mar2025 16:21:10.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/95794, l='ServerLevel[world]', x=-908.30, y=64.54, z=-2811.58] died, message: 'Farmer was slain by Zombie Brute'
+[14Mar2025 16:21:32.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/95792, l='ServerLevel[world]', x=-925.66, y=64.00, z=-2839.51] died, message: 'Nitwit was slain by Zombie Brute'
+[14Mar2025 16:22:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Diamonds!]
+[14Mar2025 16:22:09.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Worthy Equipment]
+[14Mar2025 16:22:28.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Close Quarters]
+[14Mar2025 16:23:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Penteconter]
+[14Mar2025 16:23:18.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/92861, l='ServerLevel[world]', x=-952.40, y=67.00, z=-2789.30] died, message: 'Fisherman was slain by Alligator Snapping Turtle'
+[14Mar2025 16:23:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Disme A Dozen]
+[14Mar2025 16:23:26.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [I Found It Underground]
+[14Mar2025 16:23:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Suit Up]
+[14Mar2025 16:23:51.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/92880, l='ServerLevel[world]', x=-859.76, y=63.00, z=-2798.25] died, message: 'Nitwit hit the ground too hard whilst trying to escape Zombie'
+[14Mar2025 16:24:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[14Mar2025 16:24:40.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Mar2025 16:24:40.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[14Mar2025 16:24:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to andresgc_26: vas a morir
+[14Mar2025 16:25:35.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/92862, l='ServerLevel[world]', x=-959.30, y=67.00, z=-2793.70] died, message: 'Shepherd was slain by Zombie'
+[14Mar2025 16:25:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Not a Diamond]
+[14Mar2025 16:25:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Far From Perfect]
+[14Mar2025 16:25:53.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/92866, l='ServerLevel[world]', x=-965.56, y=69.00, z=-2812.32] died, message: 'Shepherd was slain by Zombie'
+[14Mar2025 16:26:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Forbidden Fruit]
