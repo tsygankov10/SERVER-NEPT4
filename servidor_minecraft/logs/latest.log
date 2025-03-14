@@ -2930,3 +2930,17 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [14Mar2025 19:50:32.259] [Server thread/WARN] [ModernFix/]: Dedicated server took 172.064 seconds to load
 [14Mar2025 20:28:11.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Mar2025 20:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[14Mar2025 20:31:18.981] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 20:31:18.983] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 20:31:18.991] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 20:31:19.005] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[14Mar2025 20:31:19.008] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[14Mar2025 20:31:19.015] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Mar2025 20:31:19.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:37339] logged in with entity id 1422 at (319.69999998807907, 122.0, -555.0314114045599)
+[14Mar2025 20:31:20.171] [Server thread/INFO] [Modonomicon/]: Building books ...
+[14Mar2025 20:31:20.180] [Server thread/INFO] [Modonomicon/]: Books built.
+[14Mar2025 20:31:20.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[14Mar2025 20:31:20.563] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[14Mar2025 20:31:20.661] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[14Mar2025 20:31:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8070ms or 161 ticks behind
+[14Mar2025 20:32:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
