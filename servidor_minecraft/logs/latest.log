@@ -1,2 +1,22 @@
 [15Mar2025 00:07:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15Mar2025 00:07:26.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[15Mar2025 00:11:15.585] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 00:11:15.587] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 00:11:15.591] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 00:11:15.599] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 00:11:15.600] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 00:11:15.604] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 00:11:15.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:59439] logged in with entity id 27854 at (-1482.5483898959048, 121.0, -2244.3207533559616)
+[15Mar2025 00:11:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[15Mar2025 00:11:15.698] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[15Mar2025 00:16:31.373] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 00:16:31.375] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 00:16:31.379] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 00:16:31.388] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 00:16:31.390] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 00:16:31.396] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 00:16:31.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:46607] logged in with entity id 29529 at (-1462.0968930640154, 130.125, -2333.9602216136586)
+[15Mar2025 00:16:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[15Mar2025 00:16:31.517] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[15Mar2025 00:18:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[15Mar2025 00:19:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
